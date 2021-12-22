@@ -141,6 +141,7 @@ body {
   padding: 8px 16px;
   text-decoration: none;
 }
+
 @media (max-width: 600px) {
 	.dropMenu {
 		display: flex;
@@ -329,6 +330,10 @@ body {
 }
 .table_div{
 	height:550px;
+}
+.wrap {
+	width:60%;
+	margin:auto;
 }
 }
 
